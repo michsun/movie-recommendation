@@ -179,4 +179,5 @@ pyrightconfig.json
 .DS_Store
 
 # Folders
-data/*
+data/*/
+data/*.zip
