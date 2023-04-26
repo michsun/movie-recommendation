@@ -177,3 +177,6 @@ pyrightconfig.json
 
 # Mac 
 .DS_Store
+
+# Folders
+data/*
