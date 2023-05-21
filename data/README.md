@@ -1,6 +1,6 @@
 # Dataset
 
-The dataset used for this project is the [MovieLens Latest Small](https://grouplens.org/datasets/movielens/). Download the dataset and place it in the `data` folder. The folder structure should look like this:
+The dataset used for this project is the [MovieLens Latest Small Dataset](https://grouplens.org/datasets/movielens/). Download the dataset and place it in the `data` folder. The folder structure should look like this:
 
 ```
 /movie-recommendation/
