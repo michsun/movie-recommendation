@@ -179,5 +179,8 @@ pyrightconfig.json
 .DS_Store
 
 # Folders
-data/*/
+data/ml-1m/*
+data/ml-20m/*
+data/ml-25m/*
+data/ml-100k/*
 data/*.zip
